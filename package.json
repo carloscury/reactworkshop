@@ -1,0 +1,22 @@
+{
+  "name": "reactworkshop",
+  "version": "1.0.0",
+  "description": "Workshop sobre react native com Ricardo Vaz",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscury/reactworkshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloscury/reactworkshop/issues"
+  },
+  "homepage": "https://github.com/carloscury/reactworkshop#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
